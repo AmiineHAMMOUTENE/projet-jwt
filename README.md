@@ -24,8 +24,6 @@ Ce projet implémente une solution complète de gestion d’authentification et 
 | `content`     | `text`      | Contenu détaillé du module                   |
 | `created_at`  | `datetime`  | Date et heure de création                    |
 
-### Relations
-- **Aucune relation définie pour le moment.**
 
 ---
 
